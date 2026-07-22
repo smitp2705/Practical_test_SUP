@@ -81,7 +81,7 @@ predicted_price = np.expm1(predicted_log_price)       # convert back to USD
 
 ## Video
 
-📹 Video walkthrough: `<paste your Google Drive / YouTube unlisted link here>`
+📹 Video walkthrough: `https://drive.google.com/file/d/1iwpShuBQt7ILoohxbKNfZVbBNTKwYBUG/view?usp=drive_link`
 
 ## Author
  Smit Patel
